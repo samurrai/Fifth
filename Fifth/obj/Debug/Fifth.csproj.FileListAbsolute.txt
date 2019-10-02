@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Fifth\Fifth\bin\Debug\Fifth.exe.config
+C:\Users\User\source\repos\Fifth\Fifth\bin\Debug\Fifth.exe
+C:\Users\User\source\repos\Fifth\Fifth\bin\Debug\Fifth.pdb
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth_MarkupCompile.cache
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth_MarkupCompile.lref
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.g.resources
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.Properties.Resources.resources
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.exe
+C:\Users\User\source\repos\Fifth\Fifth\obj\Debug\Fifth.pdb
