@@ -75,10 +75,10 @@ namespace Fifth
             MessageBox.Show(productsString);
         }
 
-        private void NewWindow(object sender, RoutedEventArgs e)
+        private void NewWindow(object sender, RoutedEventArgs e) // кнопка создания нового окна
         {
-            MainWindow window = new MainWindow();
-            window.Show();
+            MainWindow window = new MainWindow(); // инициализируем новое окно по типу нашего
+            window.Show(); // отображаем его
         }
     }
 }
